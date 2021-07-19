@@ -1,0 +1,19 @@
+{
+  "name": "appleceo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janine11/Apple-CEO.git"
+  },
+  "author": "Janine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janine11/Apple-CEO/issues"
+  },
+  "homepage": "https://github.com/janine11/Apple-CEO#readme"
+}
